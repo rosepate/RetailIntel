@@ -1,0 +1,20 @@
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore git and OS files
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+
+# Ignore local config and cache
+.vscode/
+.streamlit/
+*.log
+
+# Ignore datasets (optional, if you don't want them in the image)
+*.csv
+*.xlsx
+*.parquet
