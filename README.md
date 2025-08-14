@@ -1,12 +1,12 @@
 # Retail Sales & Inventory Forecast Assistant
 
-## 📌 Overview
+## Overview
 An AI-powered platform that optimizes retail inventory by **forecasting demand**, **detecting anomalies**, and **suggesting timely reorders**.  
 It features a real-time KPI dashboard and an AI agent for natural language queries based on uploaded datasets.
 
 ---
 
-## 🚀 Key Highlights
+## Key Highlights
 - **Forecasting** – LSTM model predicts sales & inventory for the next 7–14 days.
 - **Anomaly Detection** – Identifies sudden demand spikes/drops.
 - **Auto-Reorder** – Alerts when stock is predicted to fall below thresholds.
