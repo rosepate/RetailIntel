@@ -13,40 +13,6 @@ It features a real-time KPI dashboard and an AI agent for natural language queri
 - **Interactive AI Agent** – Answers questions from data & dashboards.
 - **KPI Dashboard** – Visual trends, summaries, and alerts.
 
----
-
-## ⚙️ How It Works
-1. Upload sales & inventory CSV.
-2. Models forecast trends, detect anomalies, and calculate reorder points.
-3. Dashboard displays KPIs & alerts.
-4. AI Agent responds to user queries.
-
----
-
-## 🛠 Tech Stack
-**Frontend:** Streamlit / Dash  
-**Backend:** Python (FastAPI / Flask)  
-**ML Models:** LSTM, Isolation Forest  
-**AI Agent:** LangChain + OpenAI API  
-**Hosting:** Render / AWS / GCP  
-
----
-
-## ☁️ Cloud Hosting
-- **Live Demo:** [Add your link]  
-- **Source Code:** [Add GitHub repo link]  
-- Deployed via cloud provider for scalability & real-time access.
-
----
-
-## 📈 Benefits
-- Prevents stockouts & overstocking.  
-- Reduces holding costs.  
-- Enables fast, data-driven decisions.  
-
----
-
-## 🏁 Conclusion
-A scalable, AI-driven solution that helps businesses maintain optimal inventory levels, improve efficiency, and respond quickly to demand changes.
-
----
+Retail Sales & Inventory Forecast Assistant is a cloud-hosted AI tool that forecasts demand, detects anomalies, and suggests timely reorders.
+Users can upload datasets to instantly generate dashboards with KPIs, charts, and alerts.
+An integrated AI agent answers natural language queries using the uploaded data and visualizations, enabling faster, data-driven inventory decisions while reducing stockouts and overstocking.
